@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my new Product (notopass.com)
 - 🌱 I’m currently learning flutter/dart.
-- 📄 Read my blogs [here](https://haptik.ai/tech/author/aman-srivastava/)
+- 📄 Read my tech blogs [here](https://haptik.ai/tech/author/aman-srivastava/)
 - 💬 Ask me about NLP, Data Science, Mobile Apps, Product Architecture or any tech related stuff.
 - 📫 How to reach me: [Twitter - @aman_sri17](https://twitter.com/aman_sri17) | [Linkedin](https://www.linkedin.com/in/aman-srivastava-a8bb1285/)
 - 😄 Pronouns: He/His
