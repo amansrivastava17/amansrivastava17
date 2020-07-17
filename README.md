@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my new Product (notopass.com)
 - 🌱 I’m currently learning flutter/dart.
 - 💬 Ask me about NLP, Data Science, Mobile Apps, Product Architecture or any tech related stuff.
-- 📫 How to reach me: [Twitter - @aman_sri17](https://twitter.com/aman_sri17)
+- 📫 How to reach me: [Twitter - @aman_sri17](https://twitter.com/aman_sri17) | [Linkedin](https://www.linkedin.com/in/aman-srivastava-a8bb1285/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I always listen to songs while coding ;)
 
