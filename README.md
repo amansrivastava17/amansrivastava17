@@ -1,6 +1,6 @@
 ### Hola, I'm Aman! 👋
 
-- 🔭 I’m currently working on my new Product (notopass.com)
+- 🔭 I’m currently working on my new Product Idea
 - 🌱 I’m currently learning flutter/dart.
 - 📄 Read my tech blogs [here](https://haptik.ai/tech/author/aman-srivastava/)
 - 💬 Ask me about NLP, Data Science, Python, New Product Idea, Product Architecture, or any tech related stuff.
