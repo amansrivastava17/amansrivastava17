@@ -13,4 +13,4 @@
   - *You Imagination is more important than your Knowledge*
 - ⚡ Fun fact: I always listen to songs while coding ;)
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansrivastava17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+[![github stats](https://github-readme-stats.vercel.app/api?username=amansrivastava17&show_icons=true&hide_border=False)](https://github.com/amansrivastava17)
