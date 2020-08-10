@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning flutter/dart.
 - 📄 Read my tech blogs [here](https://haptik.ai/tech/author/aman-srivastava/)
 - 📄 Read my research publications [here](https://www.researchgate.net/profile/Aman_Srivastava14/research)
-- 💬 Ask me about NLP, Data Science, Python, New Product Idea, Product Architecture, or any tech related stuff.
+- 💬 Ask me about NLP, Data Science, Python, Flutter, Product Architecture, Discuss any Product Idea, or any tech related stuff.
 - 📫 How to reach me: [Twitter - @aman_sri17](https://twitter.com/aman_sri17) | [Linkedin](https://www.linkedin.com/in/aman-srivastava-a8bb1285/)
 - 😄 Pronouns: He/His
 - 😇 Believe in: 
