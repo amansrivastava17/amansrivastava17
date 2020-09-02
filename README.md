@@ -1,7 +1,6 @@
 ### Hola, I'm Aman! 👋
 
 - 🔭 I’m currently working on my new Product Idea
-- 🌱 I’m currently learning flutter/dart.
 - 📄 Read some of my writing
   - [Tech Blogs](https://haptik.ai/tech/author/aman-srivastava/)
   - [Research papers](https://www.researchgate.net/profile/Aman_Srivastava14/research)
