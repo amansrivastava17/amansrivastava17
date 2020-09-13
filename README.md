@@ -11,6 +11,6 @@
 - 😇 Believe in: 
   - *You I can is more important than your IQ* 
   - *You Imagination is more important than your Knowledge*
-- ⚡ Fun fact: Drink 5 tea a day ;)
+- ⚡ Fun fact: Tea person / Prefer beach over mountain for working ;)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=amansrivastava17&show_icons=true&hide_border=False)](https://github.com/amansrivastava17)
