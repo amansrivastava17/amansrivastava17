@@ -1,6 +1,6 @@
 ### Hola, I'm Aman! 👋
 
-- 🔭 I’m currently working on my new Product - [Notopass](https://www.notopass.com)
+- 🔭 I’m currently working on my new Product
 - 🤗 I've recently learned Flutter (cross-platform app development). 
 - 🤹🏻‍ Technologies I've worked on are *Python, Django, Machine Learning, NLP, ElasticSearch, Redis, Mongo, Docker, Flutter, Android, AWS*.
 - 📄 Read some of my writing
