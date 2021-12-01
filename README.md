@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently building products
 - 🤗 I've recently learned Flutter (cross-platform app development). 
-- 🤹🏻‍ Technologies I've worked on are *Python, Django, Machine Learning, NLP, ElasticSearch, Redis, Mongo, Docker, Flutter, Android, AWS*.
+- 🤹🏻‍ Technologies I've worked on are *Python, Machine Learning, Pyspark, NLP, ElasticSearch, Redis, Mongo, Docker, Flutter, Android, AWS*.
 - 📄 Read some of my writing
   - [Tech Blogs](https://haptik.ai/tech/author/aman-srivastava/)
   - [Research papers](https://www.researchgate.net/profile/Aman_Srivastava14/research)
