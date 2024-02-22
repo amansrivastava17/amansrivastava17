@@ -4,7 +4,8 @@
 - 🤗 I've recently learned Flutter & ReactJs. 
 - 🤹🏻‍ Technologies I've worked on are *Python, Machine Learning, DeepLearning, ChatGPT, Pyspark, NLP, ElasticSearch, Redis, Mongo, Docker, Flutter, Android, AWS*.
 - 📄 Read some of my writing
-  - [Tech Blogs](https://haptik.ai/tech/author/aman-srivastava/)
+  - [Medium Blogs](https://medium.com/@amans.rlx)
+  - [Haptik Blogs](https://haptik.ai/tech/author/aman-srivastava/)
   - [Research papers](https://www.researchgate.net/profile/Aman_Srivastava14/research)
 - 💬 Ask me about Product Idea, Technology, Data Science, NLP, Python, Mobile/Web App, Product Architecture, or any tech related stuff.
 - 📫 How to reach me: [Twitter - @aman_sri17](https://twitter.com/aman_sri17) | [Linkedin](https://www.linkedin.com/in/aman-srivastava-a8bb1285/)
