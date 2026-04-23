@@ -1,8 +1,7 @@
 ### Hola, I'm Aman! 👋
 
 - 🔭 I Love building products.
-- 🤗 I've recently working with LLMs [ChatGPT, Claude, Mistral, LLAMA]. 
-- 🤹🏻‍ Technologies I've worked on are *Python, Machine Learning, DeepLearning, ChatGPT, Pyspark, NLP, ElasticSearch, Redis, Mongo, Docker, Flutter, Android, AWS*.
+- 🤗 Claude Code Expert. 
 - 📄 Read some of my writing
   - [Medium Blogs](https://medium.com/@amans.rlx)
   - [Haptik Blogs](https://haptik.ai/tech/author/aman-srivastava/)
