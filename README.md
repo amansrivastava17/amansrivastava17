@@ -7,7 +7,7 @@
 afternoon.
 - 📄 Writing
   - [Medium](https://medium.com/@amans.rlx)
-  - [Haptik Tech Blog](https://haptik.ai/tech/author/aman-srivastava/)
+  - [Tech Blog](https://haptik.ai/tech/author/aman-srivastava/)
   - [Research](https://www.researchgate.net/profile/Aman_Srivastava14/research)
 - 💬 Ask me about product ideas, system architecture, AI agents & Claude Code, data/NLP, Python, or taking something from zero to production.
 - 📫 Reach me: [Twitter — @aman_sri17](https://twitter.com/aman_sri17) · [LinkedIn](https://www.linkedin.com/in/aman-srivastava-a8bb1285/)
