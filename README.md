@@ -1,7 +1,7 @@
 
 ### Hola, I'm Aman! 👋
 
-- 🚀 Heading **Pelago Labs** — shipping products end-to-end: frontend, backend, data, auth, database, security, deployment, and monitoring.
+- 🚀 Heading **Pelago Labs** — shipping AI products end-to-end: frontend, backend, data, auth, database, security, deployment, and monitoring.
 - 🤖 Claude Code power user — building with AI-native workflows, agents, hooks, and skills as first-class tools in the stack.
 - 🛠️ Full-stack by necessity, product-minded by default. Comfortable going from a Figma frame to a Postgres schema to a Grafana alert in the same
 afternoon.
